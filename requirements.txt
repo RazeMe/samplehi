@@ -1,0 +1,6 @@
+aiohttp
+python-decouple
+telethon
+html_telegraph_poster
+psutil
+tgcrypto
